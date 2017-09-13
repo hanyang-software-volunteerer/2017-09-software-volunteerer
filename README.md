@@ -2,6 +2,6 @@
 
 참여자 : 강대규, 이세율, 조충현, 하태성, 심수정, 박혜정<br><br>
 
-담당교수님 : 노미나 교수님
+담당교수님 : 노미나 교수님 <br><br>
 
 [회의록은 위키로](https://github.com/hanyang-software-volunteerer/2017-09-software-volunteerer/wiki)
